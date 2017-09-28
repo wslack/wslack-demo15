@@ -7,8 +7,8 @@ image: /assets/img/about.jpg
 
 ## About GSA
 
-GSA provides great workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. 
+GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. 
 
-### History
+### Mission
 
-GSA was established by President Harry Truman on July 1, 1949, to streamline the administrative work of the federal government.  GSA consolidated the National Archives Establishment, the Federal Works Agency and its Public Buildings Administration, the Bureau of Federal Supply and the Office of Contract Settlement, and the War Assets Administration into one federal agency tasked with administering supplies and providing workplaces for federal employees
+GSA does a fantastic job! This is a [link](https://18f.gsa.gov).
